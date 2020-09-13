@@ -3,7 +3,7 @@ const http = require('http')
 const port = 3000
 
 const server= http.createServer(function(request,response){
-    response.write('<h1>Hello,All</h1>')
+    response.write('<h1>Hello,World</h1>')
     response.end()
 });
 
