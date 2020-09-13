@@ -1,0 +1,22 @@
+{
+  "name": "node_basics",
+  "version": "1.0.0",
+  "description": "Node Basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manojkumar1995/node_basics.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manojkumar1995/node_basics/issues"
+  },
+  "homepage": "https://github.com/manojkumar1995/node_basics#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
